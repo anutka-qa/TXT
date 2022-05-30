@@ -1,1 +1,12 @@
-Hello
+The indispensable elements are:
+
+ID/name: Keep it brief and use correct terms. A best practice is to include the name of the feature where you found an issue. A good example could be 'CART - Unable to add new item to my cart'.
+Description/summary: If you feel the name is not sufficient, explain the bug in a few words. Share it in easy-to-understand language. Keep in mind that your description might be used to search in your bug tracking application, so make sure to use the right words.
+Environment: Depending on your browser, operating system, zoom level and screen size, websites may behave differently from one environment to another. Make sure your developers know your technical environment.
+Console logs: By collecting the console logs your developers will find it a lot easier to reproduce and resolve any bug.
+Source URL: Make it easy for your developers spot the problem by including the URL of the page where you found the bug. Big time saver!
+Visual proof: A picture is worth a thousand words. Although it might not be enough, a visual element like a screenshot or a video will help your developers understand the problem better and faster.
+Steps to reproduce: A screenshot is a proof that you had a problem, but keep in mind that your developer might not be able to reproduce the bug. Make sure to describe, with as much detail as possible, the steps you took before you encountered the bug.
+Expected vs. actual results: Explain what results you expected - be as specific as possible. Just saying "the app doesn’t work as expected" is not useful. It's also helpful to describe what you actually experienced.
+
+Optional: You can also include extra information such as the severity (critical, major, minor, trivial, enhancement), priority (high, medium, low), name of the reporter, person assigned or a due date.
